@@ -98,4 +98,3 @@ Email: jeevanj020604@gmail.com
 GitHub: NOVA0206
 
 Happy coding! 🚀
-You can modify placeholders like "your-username" and "your-email@example.com" to reflect you
